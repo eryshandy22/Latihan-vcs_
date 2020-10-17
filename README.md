@@ -145,7 +145,6 @@ $ cd latihan1``
 
 
 #### Made In By Muhammad Rizky Abdillah
-![Screenshot_20201014-095137_Samsung_Internet-picsay 1](https://user-images.githubusercontent.com/66506609/95938392-0024c580-0e04-11eb-8fdc-cd5770736a7a.jpg)
-
+![IMG_20200921_001713_202 1](https://user-images.githubusercontent.com/72916851/96329394-311e1980-1001-11eb-9d2b-a55767303795.jpg)
 
 
