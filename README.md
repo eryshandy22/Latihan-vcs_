@@ -31,6 +31,7 @@
 
 `$ git config --global user.email “nama_user”`
 
+![Untitled 2](https://user-images.githubusercontent.com/72916851/96330363-4eef7c80-1009-11eb-8e18-d1fe4113ee57.png)
 
 ### Perintah Dasar Git
 
