@@ -70,7 +70,6 @@ $ cd latihan1``
 `$ echo “# Latihan 1” >> README.md`
 * File **README.md** berhasil dibuat.
 
-![photo_2020-10-14_02-39-16](https://user-images.githubusercontent.com/72790651/95907983-92a67400-0dc6-11eb-8545-aebcbc6d1a09.jpg)
 
 ### Menambahkan File baru pada repository
 
