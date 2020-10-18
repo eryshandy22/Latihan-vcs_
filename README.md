@@ -143,7 +143,7 @@ $ cd latihan1``
 
 
 
-#### Made In By Muhammad Rizky Abdillah
+#### Made In By Muhammad Rifqi Rizqullah
 ![IMG_20200921_001713_202 1](https://user-images.githubusercontent.com/72916851/96329394-311e1980-1001-11eb-9d2b-a55767303795.jpg)
 
 
