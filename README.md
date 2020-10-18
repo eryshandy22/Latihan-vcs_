@@ -77,7 +77,8 @@ $ cd latihan1``
 `$ git add README.md`
 * File **README.md** berhasil ditambahkan.
 
-![photo_2020-10-14_02-56-22](https://user-images.githubusercontent.com/72790651/95909668-14979c80-0dc9-11eb-8050-c8c3c0459298.jpg)
+![ss 1](https://user-images.githubusercontent.com/72916851/96360211-d1427400-10cf-11eb-85bc-e7f4a44b12bc.png)
+
 
 ### `Commit` (Menyimpan perubahan ke database)
 
@@ -85,9 +86,8 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
-![photo_2020-10-14_02-49-49](https://user-images.githubusercontent.com/72790651/95909911-7821ca00-0dc9-11eb-90af-688f07c62aae.jpg)
+![ss 2](https://user-images.githubusercontent.com/72916851/96360241-1b2b5a00-10d0-11eb-9ee8-56a48e3f8eaf.png)
 
-### Membuat repository server
 
 * Server reopsitory yang akan kita gunakan adalah (http://github.com)
 * Anda harus membuat akun terlebih dahulu.
@@ -116,7 +116,7 @@ $ cd latihan1``
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-![photo_2020-10-14_02-49-50 (2)](https://user-images.githubusercontent.com/72790651/95910887-f29f1980-0dca-11eb-8663-e7689e4d25e3.jpg)
+![ss 1](https://user-images.githubusercontent.com/72916851/96360211-d1427400-10cf-11eb-85bc-e7f4a44b12bc.png)
 
 
 ### Melihat hasilnya pada server repository
@@ -132,7 +132,7 @@ $ cd latihan1``
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 * Untuk melakukan cloning, gunakan perintah `git clone [url]`
 
-![photo_2020-10-14_02-49-50 (4)](https://user-images.githubusercontent.com/72790651/95911303-807b0480-0dcb-11eb-9987-3917daf42b1e.jpg)
+![ss 3](https://user-images.githubusercontent.com/72916851/96360292-b1f81680-10d0-11eb-839d-469a16f01ce5.png)
 
 ### Kegunaan file README.md
 
